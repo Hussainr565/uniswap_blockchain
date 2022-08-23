@@ -4,6 +4,14 @@
 /node_modules
 /.pnp
 .pnp.js
+/package-lock.json
+
+### VisualStudioCode ###
+.vscode/* 
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
 
 # testing
 /coverage
